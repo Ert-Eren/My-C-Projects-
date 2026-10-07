@@ -1,0 +1,1 @@
+//10 elemanlı bir diziyi küçükten büyüğe sıralayan rekürsif fonksiyonu yazınız.(Döngü kullanılmayacak)
